@@ -1,12 +1,13 @@
-/*
-  Специально для светлой темы при наличии класса.
-  Здесь окажутся стили, которые нужно переопределить принудительно,
-  переключая тему
-*/
-
 .page.theme_light {
-  /* сохраните этот селектор в приведённом виде.
-    Так стили написанные ниже будут иметь больший вес,
-    чем стили в медиазапросе предпочтений пользователя
-  */
+  --background-color: #fff1f7;
+  --header-color: #ffc2e6;
+  --secondary-color: #ff0070;
+  --accent-color: #ff8dcb;
+  --menu-color: #353430;
+  --text-color: #353430;
+  --button-color: #353430;
+  --active-color: #353430;
+  --title-color: #353430;
+  --hover-color: #32312d66;
+  background-image: url(../images/cover-image-light.png);
 }
