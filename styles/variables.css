@@ -9,6 +9,8 @@
   --active-color: #353430;
   --title-color: #353430;
   --hover-color: #32312d66;
+  --hover-text-color: #353430;
   --font-family: 'IBM Plex Mono', monospace;
   --rec: none;
+  --background-image: url(../images/cover-image-light.png);
 }

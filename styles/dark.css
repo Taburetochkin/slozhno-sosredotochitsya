@@ -10,7 +10,9 @@
     --active-color: #ff0070;
     --title-color: #000028;
     --hover-color: #ff007040;
-    background-image: url(../images/cover-image-dark.png);
+    --hover-text-color: #f1b2ce;
+    --rec: flex;
+    --background-image: url(../images/cover-image-dark.png);
   }
 }
 
@@ -25,6 +27,7 @@
   --active-color: #ff0070;
   --title-color: #000028;
   --hover-color: #ff007040;
+  --hover-text-color: #f1b2ce;
   --rec: flex;
-  background-image: url(../images/cover-image-dark.png);
+  --background-image: url(../images/cover-image-dark.png);
 }
